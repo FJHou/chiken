@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <hearder class="title">
+    <header class="title">
       <h1>CHICKEN!CHICKEN!</h1>
-    </hearder>
+    </header>
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
